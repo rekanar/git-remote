@@ -1,2 +1,6 @@
+
 Feature1 by dev1
+
+Feature 2 added by dev2
+
 Added my changes
